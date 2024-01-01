@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on Matilda L. Bradford Christian School, Inc.</title>
+    <link>https://classy-truffle-f8e10f.netlify.app/articles/</link>
+    <description>Recent content in Articles on Matilda L. Bradford Christian School, Inc.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Dec 2023 15:40:59 +0800</lastBuildDate>
+    <atom:link href="https://classy-truffle-f8e10f.netlify.app/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Article 1</title>
+      <link>https://classy-truffle-f8e10f.netlify.app/articles/article-1/</link>
+      <pubDate>Tue, 26 Dec 2023 15:40:59 +0800</pubDate>
+      <guid>https://classy-truffle-f8e10f.netlify.app/articles/article-1/</guid>
+      <description>Nullam euismod, dui sed molestie feugiat, risus lorem rutrum elit, eget sollicitudin lacus diam eu lacus. Quisque malesuada sollicitudin vehicula. Pellentesque quis diam ullamcorper enim viverra efficitur. Phasellus ligula ipsum, auctor et lectus in, vehicula sodales urna. Nulla aliquet fermentum.</description>
+    </item>
+    <item>
+      <title>Article 2</title>
+      <link>https://classy-truffle-f8e10f.netlify.app/articles/article-2/</link>
+      <pubDate>Tue, 26 Dec 2023 15:40:56 +0800</pubDate>
+      <guid>https://classy-truffle-f8e10f.netlify.app/articles/article-2/</guid>
+      <description>Nullam euismod, dui sed molestie feugiat, risus lorem rutrum elit, eget sollicitudin lacus diam eu lacus. Quisque malesuada sollicitudin vehicula. Pellentesque quis diam ullamcorper enim viverra efficitur. Phasellus ligula ipsum, auctor et lectus in, vehicula sodales urna. Nulla aliquet fermentum.</description>
+    </item>
+    <item>
+      <title>Article 3</title>
+      <link>https://classy-truffle-f8e10f.netlify.app/articles/article-3/</link>
+      <pubDate>Tue, 26 Dec 2023 15:40:52 +0800</pubDate>
+      <guid>https://classy-truffle-f8e10f.netlify.app/articles/article-3/</guid>
+      <description>Nullam euismod, dui sed molestie feugiat, risus lorem rutrum elit, eget sollicitudin lacus diam eu lacus. Quisque malesuada sollicitudin vehicula. Pellentesque quis diam ullamcorper enim viverra efficitur. Phasellus ligula ipsum, auctor et lectus in, vehicula sodales urna. Nulla aliquet fermentum.</description>
+    </item>
+  </channel>
+</rss>

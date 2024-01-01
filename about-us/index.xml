@@ -8,5 +8,12 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 23 Oct 2023 19:49:56 +0800</lastBuildDate>
     <atom:link href="https://classy-truffle-f8e10f.netlify.app/about-us/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Administrators</title>
+      <link>https://classy-truffle-f8e10f.netlify.app/about-us/administrator/</link>
+      <pubDate>Sun, 31 Dec 2023 21:35:25 +0800</pubDate>
+      <guid>https://classy-truffle-f8e10f.netlify.app/about-us/administrator/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
