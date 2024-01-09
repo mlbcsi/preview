@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About Us on Matilda L. Bradford Christian School, Inc.</title>
-    <link>https://classy-truffle-f8e10f.netlify.app/about-us/</link>
+    <link>https://preview.matildabradford.com/about-us/</link>
     <description>Recent content in About Us on Matilda L. Bradford Christian School, Inc.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 23 Oct 2023 19:49:56 +0800</lastBuildDate>
-    <atom:link href="https://classy-truffle-f8e10f.netlify.app/about-us/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://preview.matildabradford.com/about-us/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Administrators</title>
-      <link>https://classy-truffle-f8e10f.netlify.app/about-us/administrator/</link>
+      <link>https://preview.matildabradford.com/about-us/administrator/</link>
       <pubDate>Sun, 31 Dec 2023 21:35:25 +0800</pubDate>
-      <guid>https://classy-truffle-f8e10f.netlify.app/about-us/administrator/</guid>
+      <guid>https://preview.matildabradford.com/about-us/administrator/</guid>
       <description></description>
     </item>
   </channel>
